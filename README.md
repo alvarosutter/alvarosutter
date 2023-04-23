@@ -5,8 +5,8 @@
 *   🌍  I'm based in Darmstadt, Germany.
 *   🖥️  See my portfolio at [asutter.com](http://asutter.com)
 *   ✉️  You can contact me at [asutter.dev@gmail.com](mailto:asutter.dev@gmail.com)
-*   🚀  I'm currently working on [Games Gallery](http://mygamesgallery.netlify.app/)
-*   🧠  I'm learning TypeScript & React.
+*   🧠  I'm currently working on improving my skills in, and understanding of TypeScript, React and CSS.
+*   🚀  Looking forward to start learning other languages (Python) and frameworks (Svelte) in a near future.
 *   ⚡  At the moment, I am also looking for an internship. If you find my profile interesting and want to get in touch, you can use my email, or via GitHub. I would love to hear from you.
 
 ### Skills & Tools
